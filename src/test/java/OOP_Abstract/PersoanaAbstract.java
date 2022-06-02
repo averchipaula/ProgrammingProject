@@ -14,6 +14,7 @@ public abstract class PersoanaAbstract {
     abstract void Munceste();
     abstract void PrimesteSalar();
     abstract void Invata();
+
     abstract void PrimesteBursa();
     abstract void Someaza();
     abstract void PrimesteAjutor();
