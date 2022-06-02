@@ -25,6 +25,7 @@ public class Student {
     //Obiectul este legat de constructor
 
 
+
     public Student(String nume, String prenume, Integer varsta,
                    Double inaltime, Character sex, Boolean areBursa,
                    List<Integer> noteMatematica, List<Integer> noteRomana) {

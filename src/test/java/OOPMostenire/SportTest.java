@@ -21,5 +21,7 @@ public class SportTest {
 
         fotbalSport.InfoFotbal();
         fotbalSport.InfoSport();
+        //fotbalSport.reguli=null; (anuleaza, nu mai exista)
+
     }
 }

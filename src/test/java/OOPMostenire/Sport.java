@@ -20,6 +20,8 @@ public class Sport {
     //In Java putem mosteni o singura clasa
     //In momentul in care clasa copil mosteneste clasa parinte
     //trebuie sa apelam constructorul din clasa parinte.
+    //before(browser/ test( faci test) / after (se executa t)
+
 
     public void InfoSport(){
         System.out.println(Nume);
