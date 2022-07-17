@@ -10,7 +10,8 @@ public class Obiect {
 
     @Test
     public void Obiect(){
-        //Array=toate elementele trebuie sa fie de acelasi tip array-[] ,new , capacitatea elementelor, length
+        //Array=toate elementele trebuie sa fie de acelasi tip array-[] ,new ,
+        // capacitatea elementelor, length
         //List
         //Hashmap
         PrintNumeArray();
@@ -45,7 +46,8 @@ public class Obiect {
 
     }
 
-    //Hashmap = key value (cu ajutorul unui key poti sa def. categoria) , nu poti accesa "key" fara o valoare
+    //Hashmap = key value (cu ajutorul unui key poti sa def. categoria) ,
+    // nu poti accesa "key" fara o valoare
     //Printeaza valori diferite dintr-o multime
     public void PrintValHashmap(){
         HashMap<String,String> HHBB= new HashMap<>();
